@@ -48,6 +48,21 @@ twitterClient.get('https://api.twitter.com/1.1/statuses/user_timeline.json?count
      //console.log(tweets[0].created_at);
  for (var i = 0; i < tweet_limit ; i++) {
       console.log(tweets[i].text +'\n' + " Created at: "+tweets[i].created_at +'\n');
+    var logtxt = '\n'+arguments1 +'\n'+arguments2+'\n'+ tweets[i].text +'\n' + " Created at: "+tweets[i].created_at +'\n';
+    fs.appendFile("log.txt", logtxt, function(err) {
+
+  // If an error was experienced we say it.
+  if (err) {
+    console.log(err);
+  }
+
+  // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+  else {
+    console.log("Content Added!");
+  }
+
+});
+
     }
   }
 });
@@ -67,11 +82,26 @@ if(song == undefined){
 
 // console.log(data); 
 for (var i = 0; i < 10 ; i++) {
-console.log("---------- "+i+"---------" + '\n'+
+return console.log("---------- "+i+"---------" + '\n'+
 "Artists: " + data.tracks.items[i].artists[0].name +'\n'
 +"Song Name: " + data.tracks.items[i].name +'\n'
 +"Songs Preview URL: "+data.tracks.items[i].preview_url + '\n'
 +"Songs Album: "+data.tracks.items[i].album.name)
+var logtxt ='\n'+arguments1+" "+ arguments2+'\n'+ "---------- "+i+"---------" + '\n'+"Artists: " + data.tracks.items[i].artists[0].name +'\n'+"Song Name: " + data.tracks.items[i].name +'\n'+"Songs Preview URL: "+data.tracks.items[i].preview_url + '\n'+"Songs Album: "+data.tracks.items[i].album.name + '\n';
+
+fs.appendFile("log.txt", logtxt, function(err) {
+
+  // If an error was experienced we say it.
+  if (err) {
+    console.log(err);
+  }
+
+  // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+  else {
+    console.log("Default Song Content Added!");
+  }
+
+});
 
 }
 });
@@ -85,11 +115,28 @@ spotifyClient.search({ type: 'track', query: song }, function(err, data) {
 
 // console.log(data); 
 for (var i = 0; i < 10 ; i++) {
-console.log("---------- "+i+"---------" + '\n'+
+  console.log("---------- "+i+"---------" + '\n'+
 "Artists: " + data.tracks.items[i].artists[0].name +'\n'
 +"Song Name: " + data.tracks.items[i].name +'\n'
 +"Songs Preview URL: "+data.tracks.items[i].preview_url + '\n'
 +"Songs Album: "+data.tracks.items[i].album.name)
+
+
+  var logtxt = '\n'+arguments1+" "+arguments2+'\n'+ "---------- "+i+"---------" + '\n'+"Artists: " + data.tracks.items[i].artists[0].name +'\n'+"Song Name: " + data.tracks.items[i].name +'\n'+"Songs Preview URL: "+data.tracks.items[i].preview_url + '\n'+"Songs Album: "+data.tracks.items[i].album.name+'\n';
+
+fs.appendFile("log.txt", logtxt, function(err) {
+
+  // If an error was experienced we say it.
+  if (err) {
+    console.log(err);
+  }
+
+  // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+  else {
+    console.log("Song Content Added!");
+  }
+
+});
 
 }
 });
@@ -114,6 +161,25 @@ if(movie == undefined){
         console.log("Plot: " + JSON.parse(body).Plot);
         console.log("Actors: " + JSON.parse(body).Actors);
 
+var logtxt = '\n'+arguments1+" "+arguments2+'\n'+ "Title: " + JSON.parse(body).Title + '\n'+"Year: " + JSON.parse(body).Year+'\n'
+            +"imdbRating: "+JSON.parse(body).imdbRating +'\n'+JSON.parse(body).Ratings[1].Source+":"+JSON.parse(body).Ratings[1].Value
+            + '\n'+"Country: " + JSON.parse(body).Country+'\n'+"Language: " + JSON.parse(body).Language+'\n'
+            + "Plot: " + JSON.parse(body).Plot +'\n'+ "Actors: " + JSON.parse(body).Actors+'\n' ;
+
+fs.appendFile("log.txt", logtxt, function(err) {
+
+  // If an error was experienced we say it.
+  if (err) {
+    console.log(err);
+  }
+
+  // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+  else {
+    console.log("Default Movie Content Added!");
+  }
+
+});
+
 }
 })
 }
@@ -130,7 +196,26 @@ request("http://www.omdbapi.com/?t="+movie+"&y=&plot=short&apikey=40e9cece", fun
         console.log("Country: " + JSON.parse(body).Country);
         console.log("Language: " + JSON.parse(body).Language);        
         console.log("Plot: " + JSON.parse(body).Plot);
-        console.log("Actors: " + JSON.parse(body).Actors);        
+        console.log("Actors: " + JSON.parse(body).Actors);
+
+        var logtxt = '\n'+arguments1+" "+arguments2+'\n'+"Title: " + JSON.parse(body).Title + '\n'+"Year: " + JSON.parse(body).Year+'\n'
+                      +"imdbRating: "+JSON.parse(body).imdbRating +'\n'+JSON.parse(body).Ratings[1].Source+":"+JSON.parse(body).Ratings[1].Value
+                      + '\n'+"Country: " + JSON.parse(body).Country+'\n'+"Language: " + JSON.parse(body).Language+'\n'
+                      + "Plot: " + JSON.parse(body).Plot +'\n'+ "Actors: " + JSON.parse(body).Actors+'\n' ;
+
+fs.appendFile("log.txt", logtxt, function(err) {
+
+  // If an error was experienced we say it.
+  if (err) {
+    console.log(err);
+  }
+
+  // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+  else {
+    console.log(" Movie Content Added!");
+  }
+
+});        
     }
 })
 }
@@ -165,6 +250,10 @@ fs.readFile("random.txt", "utf8", function(error, data) {
 });
 
 }
+
+
+
+
 
 
 if(arguments1 === 'spotify-this-song' ){

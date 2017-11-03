@@ -1,0 +1,172 @@
+
+spotify-this-song
+---------- 0---------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: The Hits--Chapter One
+
+spotify-this-song
+---------- 2---------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: Millennium
+
+spotify-this-song
+---------- 1---------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: The Essential Backstreet Boys
+
+spotify-this-song
+---------- 3---------
+Artists: Anthem Lights
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: Covers Part IV
+
+spotify-this-song
+---------- 5---------
+Artists: Manuel Costa
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: I Want It That Way
+
+spotify-this-song
+---------- 4---------
+Artists: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Songs Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+spotify-this-song
+---------- 6---------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: 90 Sweet 90s Hits!
+
+spotify-this-song
+---------- 7---------
+Artists: Dynamite Boy
+Song Name: I Want It That Way
+Songs Preview URL: null
+Songs Album: Punk Goes Pop
+
+spotify-this-song
+---------- 8---------
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Songs Preview URL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: Poodle Hat
+
+spotify-this-song
+---------- 9---------
+Artists: Kyle Olthoff
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: I Want It That Way
+
+spotify-this-song
+---------- 0---------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: The Hits--Chapter One
+
+spotify-this-song
+---------- 3---------
+Artists: Anthem Lights
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: Covers Part IV
+
+spotify-this-song
+---------- 4---------
+Artists: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Songs Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+spotify-this-song
+---------- 5---------
+Artists: Manuel Costa
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: I Want It That Way
+
+spotify-this-song
+---------- 1---------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: The Essential Backstreet Boys
+
+spotify-this-song
+---------- 2---------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: Millennium
+
+spotify-this-song
+---------- 6---------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: 90 Sweet 90s Hits!
+
+spotify-this-song
+---------- 8---------
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Songs Preview URL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: Poodle Hat
+
+spotify-this-song
+---------- 9---------
+Artists: Kyle Olthoff
+Song Name: I Want It That Way
+Songs Preview URL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=57ddef35e7864145add3b00c1fded032
+Songs Album: I Want It That Way
+
+spotify-this-song
+---------- 7---------
+Artists: Dynamite Boy
+Song Name: I Want It That Way
+Songs Preview URL: null
+Songs Album: Punk Goes Pop
+
+movie-this
+Title: Titanic
+Year: 1997
+imdbRating: 7.8
+Rotten Tomatoes:88%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+movie-this
+
+titanic
+Title: Titanic
+Year: 1997
+imdbRating: 7.8
+Rotten Tomatoes:88%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+movie-this titanic
+Title: Titanic
+Year: 1997
+imdbRating: 7.8
+Rotten Tomatoes:88%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
